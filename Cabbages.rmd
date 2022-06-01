@@ -25,6 +25,8 @@ $H_O$:: there is no difference in average vit c between c39 and c52 cultivation 
 
 # Method
 we are explaining the numerical variable of vitamin C by examining the categorical variable cultivation we will use the T test to compare the mean of the vitamin c groups from the vit c
+
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 # Results
