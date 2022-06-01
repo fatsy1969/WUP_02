@@ -71,5 +71,6 @@ based on our two sample T test we can infer that the p value is 0.00000003405 fr
 
 
 # Discussion and Conclusion
-
+e
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+the difference between the two categories we had, cultivation methods c 39 and c52 were found to have a numerical difference of the vit c produced in the cabbages made rejected the null hypothesis after seeing the results of the T rest. the c39 had a means of s1.5 while the c52 gorup had a mean of 64.5 or p value of this this test was 0.0000003405  
