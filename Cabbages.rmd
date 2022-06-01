@@ -42,11 +42,22 @@ boxplot(VitC~Cult,data=veggy)
 ```
 
 
+the category c39 for cultivating had an overall lower means for the numerical results of the vit c while the
+c52 category had a higher mean of the vit c when using their cultivation method  
+
+
+
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+the cultivation 39 had a median of s1.0,while c52 had a median of 64.5 c39 had a mean of 51.0 meaning the cultivation method was successful  
 
 ## Inferential Results
 
