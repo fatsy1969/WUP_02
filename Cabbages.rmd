@@ -67,7 +67,7 @@ the cultivation 39 had a median of s1.0,while c52 had a median of 64.5 c39 had a
 t.test(VitC~Cult,data=veggy)
 ```
 
-based on our two sample T test we can infer that the p value is 0.00000003405 from this we can reject the null hypothesis because the probability of the sample result was very unlikely meaning the null hypothesis is rejected  
+based on our two sample T test we can infer that the p value is 0.00000003405 from this we can reject the null hypothesis because the probability of the sample result was very unlikely meaning the null hypothesis is rejected
 
 
 # Discussion and Conclusion
